@@ -51,21 +51,29 @@ I'm a Computer Science student at the **University of British Columbia**, curren
 
 **03 — Beyond Code**
 
-<table>
-<tr>
-<td width="100%" style="font-family:'Space Mono',monospace;color:#F5F5F7;">
-<table width="100%">
-<tr><td style="background:#121212;border:1px solid #27272A;border-radius:8px;padding:16px;"><strong>Speedcubing</strong><br><span style="color:#71717A;font-size:12px;">I've been speedcubing since I was a child, and currently average sub-10. I did it casually, up until the last year of high school, when I decided that I seriously wanted to improve. That pushed me to finally memorize full OLL and PLL, which I have been putting off until then. I also worked on my look-ahead, allowing me to achieve more fluid transitions bewteen my F2L pairs. Now, I'm working on my execution and fingertricks to achieve higher TPS.</span></td></tr>
-<tr><td style="height:16px;"></td></tr>
-<tr><td style="background:#121212;border:1px solid #27272A;border-radius:8px;padding:16px;"><strong>Video Gaming</strong><br><span style="color:#71717A;font-size:12px;">I have been gaming for as long as I can remember. A couple of my favourite games and game series/franchises include: MarioKart Wii, Need for Speed, Assassin's Creed, Sonic the Hedgehog, Batman Arkham, and Dying Light. After finishing IB exams in high school, I also picked up fighting games. I played my father's copy of Street Fighter 4 and 5, and later began playing Street Fighter 6, where I am a master ranked Ken main. I have mained Ken in every Street Fighter game that I play, because I like the flaming visual effects and aggressive playstyle. In Street Fighter 3: Third Strike, I also dabble with Ryu and Akuma as my off-mains.</span></td></tr>
-<tr><td style="height:16px;"></td></tr>
-<tr><td style="background:#121212;border:1px solid #27272A;border-radius:8px;padding:16px;"><strong>Running</strong><br><span style="color:#71717A;font-size:12px;">I began running solely for the exercise, but I fell in love with it because I liked the idea of pushing myself to become as fast as possible. Just like speedcubing, and in some of the games I play, I like the thrill of pushing my self to achieve high speeds, whether it's turning a cube faster than the eye can process, or completing a Sonic level in the shortest time possible. Naturally, running followed. I was a co-captain for the cross country team in high school, and I still run for the love of it. Current 5k time is just under 20 minutes, record is 19:15.</span></td></tr>
-<tr><td style="height:16px;"></td></tr>
-<tr><td style="background:#121212;border:1px solid #27272A;border-radius:8px;padding:16px;"><strong>Cars</strong><br><span style="color:#71717A;font-size:12px;">I'm a huge car enthusiast, and my favourite car of all time is the Mazda RX7 FD3S. My first exposure to cars was the Cars movie, then playing Need for Speed, and later the Fast and Furious franchise. This profile's picture is an RX7! It was captured in photo mode from a drifting game called FR Legends, where I built my dream car in game, an RX7 with an RE Amemiya body kit. I included aspects of my father's 2001 Honda Prelude in real life, namely the white exterior, gold painted rims, and carbon fiber hood.</span></td></tr>
-</table>
-</td>
-</tr>
-</table>
+<div style="font-family:'Space Mono',monospace;color:#F5F5F7;">
+
+<div style="background-color:#121212;border:1px solid #27272A;border-radius:8px;padding:16px;margin-bottom:16px;max-width:100%;box-sizing:border-box;">
+<strong>Speedcubing</strong><br>
+<span style="color:#71717A;font-size:12px;line-height:1.6;">I've been speedcubing since I was a child, and currently average sub-10. I did it casually, up until the last year of high school, when I decided that I seriously wanted to improve. That pushed me to finally memorize full OLL and PLL, which I have been putting off until then. I also worked on my look-ahead, allowing me to achieve more fluid transitions bewteen my F2L pairs. Now, I'm working on my execution and fingertricks to achieve higher TPS.</span>
+</div>
+
+<div style="background-color:#121212;border:1px solid #27272A;border-radius:8px;padding:16px;margin-bottom:16px;max-width:100%;box-sizing:border-box;">
+<strong>Video Gaming</strong><br>
+<span style="color:#71717A;font-size:12px;line-height:1.6;">I have been gaming for as long as I can remember. A couple of my favourite games and game series/franchises include: MarioKart Wii, Need for Speed, Assassin's Creed, Sonic the Hedgehog, Batman Arkham, and Dying Light. After finishing IB exams in high school, I also picked up fighting games. I played my father's copy of Street Fighter 4 and 5, and later began playing Street Fighter 6, where I am a master ranked Ken main. I have mained Ken in every Street Fighter game that I play, because I like the flaming visual effects and aggressive playstyle. In Street Fighter 3: Third Strike, I also dabble with Ryu and Akuma as my off-mains.</span>
+</div>
+
+<div style="background-color:#121212;border:1px solid #27272A;border-radius:8px;padding:16px;margin-bottom:16px;max-width:100%;box-sizing:border-box;">
+<strong>Running</strong><br>
+<span style="color:#71717A;font-size:12px;line-height:1.6;">I began running solely for the exercise, but I fell in love with it because I liked the idea of pushing myself to become as fast as possible. Just like speedcubing, and in some of the games I play, I like the thrill of pushing my self to achieve high speeds, whether it's turning a cube faster than the eye can process, or completing a Sonic level in the shortest time possible. Naturally, running followed. I was a co-captain for the cross country team in high school, and I still run for the love of it. Current 5k time is just under 20 minutes, record is 19:15.</span>
+</div>
+
+<div style="background-color:#121212;border:1px solid #27272A;border-radius:8px;padding:16px;max-width:100%;box-sizing:border-box;">
+<strong>Cars</strong><br>
+<span style="color:#71717A;font-size:12px;line-height:1.6;">I'm a huge car enthusiast, and my favourite car of all time is the Mazda RX7 FD3S. My first exposure to cars was the Cars movie, then playing Need for Speed, and later the Fast and Furious franchise. This profile's picture is an RX7! It was captured in photo mode from a drifting game called FR Legends, where I built my dream car in game, an RX7 with an RE Amemiya body kit. I included aspects of my father's 2001 Honda Prelude in real life, namely the white exterior, gold painted rims, and carbon fiber hood.</span>
+</div>
+
+</div>
 
 ---
 
