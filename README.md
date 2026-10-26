@@ -106,5 +106,5 @@ I'm a huge car enthusiast, and my favourite car of all time is the Mazda RX7 FD3
 ---
 
 <p align="center" style="color:#71717A;font-family:'Space Mono',monospace;font-size:11px;text-transform:uppercase;letter-spacing:0.15em;">
-  Built with the same stack as my <a href="https://github.com/DevonYuan/Personal-Website" style="color:#2A9D8F;">personal website</a> — React + TypeScript + Tailwind
+  Built with the same stack as my <a href="https://devonyuan.github.io/Personal-Website/" style="color:#2A9D8F;">personal website</a> — React + TypeScript + Tailwind
 </p>
